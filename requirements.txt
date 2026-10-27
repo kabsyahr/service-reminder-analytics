@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+joblib
+scikit-learn
+xgboost
+gspread
+gspread-dataframe
+google-auth

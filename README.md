@@ -78,7 +78,7 @@ The notebook uses a configured target month for the operational extract. Rerunni
 
 ### Page 1 — Reminder Overview
 
-![Reminder Overview dashboard](images/reminder_overview.png)
+![Reminder Overview dashboard](images/reminder-overview.png)
 
 The overview provides a cross-period view of generated reminder records, service type, deadline categories, and monthly scheduling volume.
 
